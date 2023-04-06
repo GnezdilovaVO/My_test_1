@@ -17,4 +17,4 @@
 
 [Код](Tets_01/Program.cs)
 
-[Блок-схема](Tets_01/diagram.drawio)
+[Блок-схема](Tets_01/diagram.drawio.png)
