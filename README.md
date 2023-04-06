@@ -14,3 +14,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 
 [“Russia”, “Denmark”, “Kazan”] → []
+
+[Код](Tets_01/Program.cs)
+
+[Блок-схема](Tets_01/diagram.drawio)
